@@ -1,5 +1,5 @@
 public with sharing class CalculatorClass {
-    public integer addTwoNumbersChange(integer a , integer b){
-        return a+b;
+    public integer addThreeNumbersChange(integer a , integer b,integer c){
+        return a+b+c;
     }
 }
