@@ -1,0 +1,4 @@
+sytem.debug("lets start with git");
+::wq
+ccd githubProject
+dd
